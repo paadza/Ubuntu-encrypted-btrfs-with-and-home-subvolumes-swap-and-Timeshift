@@ -2,7 +2,7 @@
 - notes for my video [Ubuntu 25.04 (24.04) with encrypted btrfs and swap.. Timeshift snapshot.](https://www.youtube.com/watch?v=IRcJI9dQEmk&t=1183s)
 - works from Ubuntu 24.04 LTS onwards, we do this installation using the newest 25.04
 
-- the conversion is done by Torsten's script [btrfs-encrypt-root](https://gitlab.com/bronger/btrfs-encrypt-root/) - thank you!. I was using the latest version of the script, at shooting the video it was January's 2025 version.
+- the conversion is done by Torsten's script [btrfs-encrypt-root](https://gitlab.com/bronger/btrfs-encrypt-root/) - thank you!. I was using the latest version of the script, when shooting the video it was January's 2025 version.
 - converts Ubuntu's just btrfs installation to encrypted btrfs installation with `@`and `@home` subvolume layout in live CD mode, IMMEDIATELLY after installation - no reboot!
 
 ## Ubuntu installation - 24.04 onwards, tested on 25.04
